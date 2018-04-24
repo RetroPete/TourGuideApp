@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_S">8dp</dimen>
+    <dimen name="padding_M">10dp</dimen>
+    <dimen name="textSize_TitleListItem">18sp</dimen>
+    <dimen name="textSize_DescriptionListItem">16sp</dimen>
+    <dimen name="textSize_TabLayoutTextStyle">16sp</dimen>
+
+</resources>

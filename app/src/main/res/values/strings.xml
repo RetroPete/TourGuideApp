@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">TourGuideApp</string>
+    <string name="tour_guide_name">Ipswich Tour Guide</string>
+
+    <!-- Categorys -->
+    <string name="category_bars">Bars</string>
+    <string name="category_nightlife">Nightlife</string>
+    <string name="category_theatres">Theatres</string>
+    <string name="category_monuments">Monuments</string>
+    <string name="category_parks">Parks</string>
+
+    <!-- Bars -->
+    <string name="the_fat_cat">The Fat Cat</string>
+    <string name="the_fat_cat_overview">Specialist beer tavern stocking more than 30 real ales, an imported beer selection and bar snacks.</string>
+    <string name="the_dove_street_inn">The Dove Street Inn</string>
+    <string name="the_dove_street_inn_overview">Popular for real ales, whisky selection and pub grub, with conservatory area and stripped floors.</string>
+    <string name="the_steamboat_tavern">The Steamboat Tavern</string>
+    <string name="the_steamboat_tavern_overview">Lively riverside local serving pub food and real ales, with a beer garden and live music nights.</string>
+    <string name="the_mulberry_tree">The Mulberry Tree</string>
+    <string name="the_mulberry_tree_overview">Now a privately owned pub which was reopened in March 2012 after being refurbished from January 2012. The pub has a selection of up to 16 Real Ales, (8 on hand pull and 8 on gravity) 6 to 8+ Real Ciders on at one time (more in summer) and many Lagers, Wines and Spirits.</string>
+
+    <!-- Nightlife -->
+    <string name="unit_17">Unit 17</string>
+    <string name="unit_17_overview">Chain nightclub with high-tech sound and lights and a regular lineup of themed dance music events.</string>
+    <string name="bowmans">Bowmans</string>
+    <string name="bowmans_overview">Bar in the center of Ipswich. Serving food Monday - Saturday, 12pm-3pm. Open till late Friday and Saturday till 3am with a live DJ from 9pm. Large drink choice and great food menu. Monthly quiz on the last Thursday of the month.</string>
+    <string name="briarbank_brewing_company">Briarbank Brewing Company</string>
+    <string name="briarbank_brewing_company_overview">Visit the Briarbank Bar and Brewery and enjoy hand-crafted quality beers produced in our very own microbrewery, situated on the ground floor.</string>
+
+    <!-- Theatre -->
+    <string name="new_wolsey_theatre">New Wolsey Theatre</string>
+    <string name="new_wolsey_theatre_overview">The New Wolsey Theatre is a Suffolk producing theatre, located in the Westgate area of Ipswich. It is a midsized regional theatre, having a seating capacity of 400.</string>
+    <string name="regent_theatre">Regent Theatre</string>
+    <string name="regent_theatre_overview">Regent Theatre is a theatre and concert venue located at St Helens Street in Ipswich, Suffolk, England. The auditorium was recently refurbished and now holds 1,551 people, having lost around 150 seats. It is East Anglias largest theatre.</string>
+    <string name="sir_john_mills_theatre">Sir John Mills Theatre</string>
+    <string name="sir_john_mills_theatre_overview">Theatre named after Sir John Mills</string>
+
+    <!-- Monuments -->
+    <string name="the_giles_statue">The Giles Statue</string>
+    <string name="the_giles_statue_overview">In the centre of Ipswich, in an area near to the Ipswich Corn Exchange known as the Giles Circus is where you will find Grandma. The statue Grandma that depicts the life and works of Carl Giles, that is. Carl Giles lived and worked in Ipswich, spending many of his working years employed by the Express Group Newspapers as a cartoonist and illustrator. Grandma, to anyone who is familiar with the work of Giles, is instantly recognisable and arguably the most famous of the characters Giles created. Grandma has pride of place in Giles Circus, and is carefully positioned so that she is looking up at the office window where Giles used to work - above what is now a coffee shop.</string>
+    <string name="cardinal_thomas_wolsey_statue">Cardinal Thomas Wolsey Statue</string>
+    <string name="cardinal_thomas_wolsey_statue_overview">Bronze statue of Cardinal Thomas Wolsey sitting on a chair decorated with gothic arches and stretching his right hand, inviting the spectator to share the book held up in his left. His cardinals robes are spread out uncomfortably in front of him, while his hat hangs over the back of the chair and a cat peers round one of its legs.</string>
+    <string name="the_major_statue">The Major Statue</string>
+    <string name="the_major_statue_overview">The major of Major’s Corner may only be sitting from his vantage point at the top of the council toilet block swatting flies but he has become a local landmark of his own.</string>
+    <string name="prince_alexander_obolensky_statue">Prince Alexander Obolensky</string>
+    <string name="prince_alexander_obolensky_statue_overview">This is a statue dedicated to a Russian Prince who played Rugby Union for England after escaping the russian revolution, he then joined the RAF in world war 2 but died in an aeroplane crash near ipswich and is now buried in Ipswich cemetery.</string>
+
+    <!-- Parks -->
+    <string name="christchurch_park">Christchurch Park</string>
+    <string name="christchurch_park_overview">Christchurch Park is a 70-acre area of rolling lawns, wooded areas, and delicately created arboreta in central Ipswich, Suffolk, England. It contains Christchurch Mansion which holds a public museum and art gallery.</string>
+    <string name="holywells_park">Holywells Park</string>
+    <string name="holywells_park_overview">This historic park features trees, ponds, a visitor centre, a maze, an open-air theatre and more.</string>
+    <string name="chantry_park">Chantry Park</string>
+    <string name="chantry_park_overview">Grassy expanse with football pitches and a playground, sometimes used for large public events.</string>
+</resources>

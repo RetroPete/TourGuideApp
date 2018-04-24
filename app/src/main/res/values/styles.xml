@@ -1,0 +1,55 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="MyTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimaryDark">@color/colorTheme</item>
+    </style>
+
+    <style name="CategoryTab" parent="Widget.Design.TabLayout">
+        <item name="tabMode">scrollable</item>
+        <item name="tabSelectedTextColor">@color/colorTabSelectedText</item>
+        <item name="tabIndicatorColor">@color/colorTabIndicator</item>
+        <item name="tabTextAppearance">@style/TabLayoutTextStyle</item>
+        <item name="tabBackground">?attr/selectableItemBackground</item>
+    </style>
+
+    <style name="TabLayoutTextStyle">
+        <item name="android:textSize">@dimen/textSize_TabLayoutTextStyle</item>
+        <item name="android:textColor">@color/colorTabLayoutText</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TextContainer">
+        <item name="android:paddingLeft">@dimen/padding_M</item>
+        <item name="android:paddingRight">@dimen/padding_S</item>
+        <item name="android:paddingTop">@dimen/padding_S</item>
+        <item name="android:paddingBottom">@dimen/padding_S</item>
+    </style>
+
+    <style name="TitleListItem">
+        <item name="android:gravity">top</item>
+        <item name="android:paddingLeft">@dimen/padding_M</item>
+        <item name="android:paddingRight">@dimen/padding_S</item>
+        <item name="android:textSize">@dimen/textSize_TitleListItem</item>
+        <item name="android:textAppearance">?android:textAppearanceMedium</item>
+        <item name="android:textColor">@color/colorTextList</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="OverviewListItem">
+        <item name="android:gravity">bottom</item>
+        <item name="android:paddingLeft">@dimen/padding_M</item>
+        <item name="android:paddingRight">@dimen/padding_S</item>
+        <item name="android:paddingTop">@dimen/padding_S</item>
+        <item name="android:paddingBottom">@dimen/padding_S</item>
+        <item name="android:textSize">@dimen/textSize_DescriptionListItem</item>
+        <item name="android:textAppearance">?android:textAppearanceMedium</item>
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+</resources>

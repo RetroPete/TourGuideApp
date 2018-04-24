@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorPrimaryDark">#1976D2</color>
+    <color name="colorAccent">#FF5252</color>
+
+    <color name="colorTabLayoutBackground">#FF5252</color>
+
+    <color name="colorTextList">#1976D2</color>
+
+    <color name="colorTabIndicator">#2196F3</color>
+
+    <color name="colorTabLayoutText">#FFFFFF</color>
+
+    <color name="colorTabSelectedText">#757575</color>
+
+    <color name="colorTheme">#BBDEFB</color>
+
+    <color name="categoryBars">#BBDEFB</color>
+
+    <color name="categoryNightlife">#BBDEFB</color>
+
+    <color name="categoryMonuments">#BBDEFB</color>
+
+    <color name="categoryTheatres">#BBDEFB</color>
+
+    <color name="categoryParks">#BBDEFB</color>
+
+</resources>
